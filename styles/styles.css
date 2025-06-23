@@ -21,6 +21,7 @@
 }
 
 .h1Recetas{
+    margin: 0;
     font-size: 45px;
     background: #EEDF7A;
     padding: 8px;
@@ -29,6 +30,21 @@
 .h2Recetas{
     background: #EEDF7A;
     padding-left: 8px;
+    margin: 0;
+    font-size: 30px;
 }
 
+.descReceta{
+    background-color: #F4FFFD;
+    padding: 10px;
+    margin: 0;
+    font-size: 20px;
+}
+
+.descListas{
+    margin: 0;
+    padding: 10px 40px 10px;
+    background-color: #D5CFE1;
+    font-size: 18px;
+}
 
