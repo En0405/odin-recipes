@@ -13,11 +13,13 @@
 }
 
 .navItem{
-    display: inline;
+    display: block;
+    text-align: center;
     padding: 10px;
     border-radius: 10px;
     background-color: #D8A25E;
     font-size: 20px;
+    margin-bottom: 10px;
 }
 
 .h1Recetas{
@@ -46,5 +48,10 @@
     padding: 10px 40px 10px;
     background-color: #D5CFE1;
     font-size: 18px;
+}
+
+img{
+    display: block;
+    margin: auto;
 }
 
