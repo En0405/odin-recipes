@@ -2,9 +2,21 @@
 
 *{
     font-family: Roboto, sans-serif;
-    
 }
 
 .titulos{
     font-family: Raleway, Times;
+}
+
+.navMenu{
+    padding: 0;
+}
+
+.navItem{
+    display: inline;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #D8A25E;
+    font-size: 20px;
+
 }
